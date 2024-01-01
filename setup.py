@@ -7,5 +7,4 @@ setup(
     author='Author Name',
     author_email='haqury@gmail.com',
     packages=['ConfigManger'],  # same as name
-    install_requires=[],  # external packages as dependencies
 )

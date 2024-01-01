@@ -1,8 +1,5 @@
-import pyperclip as pc
 COMMANDS = ['fast', 'фаст', 'first']
-
 true = ['true', 'тру', 'room']
-
 
 class ConfigManger:
     def __init__(self, listner_manager):
