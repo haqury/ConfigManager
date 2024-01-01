@@ -1,7 +1,7 @@
 COMMANDS = ['fast', 'фаст', 'first']
 true = ['true', 'тру', 'room']
 
-class ConfigManger:
+class ConfigManager:
     def __init__(self, listner_manager):
         self.commands = COMMANDS
         self.listner_manager = listner_manager
